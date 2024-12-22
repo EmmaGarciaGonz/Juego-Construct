@@ -119,7 +119,9 @@
 			"PortadaDibujo2",
 			"PortadaDibujo3",
 			"Texto2",
-			"Sprite"
+			"Sprite",
+			"Sprite2",
+			"Sprite3"
 		],
 		"subfolders": []
 	},
